@@ -1,16 +1,12 @@
-#include <stdio.h>
-
-#include <string.h>
+#include <sdio.h>
 
 /**
  * main -printing
  *
  * Return: 0
  */
-
 int main(void)
 {
-
-	puts("Programming is like building a multiligual puzzle"\n);
+	puts("Programmimg is like buildinga multilingual puzzle"\n);
 	return (0);
 }
