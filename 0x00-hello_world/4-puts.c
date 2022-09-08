@@ -1,12 +1,11 @@
-#include <sdio.h>
+#include <stdio.h>
 
 /**
- * main -printing
+ * main -entry point
  *
- * Return: 0
+ *return :0 after printing the function
  */
 int main(void)
-{
-	puts("Programmimg is like buildinga multilingual puzzle"\n);
+{puts("\"Programming is like building a multiligual puzzle");
 	return (0);
 }
