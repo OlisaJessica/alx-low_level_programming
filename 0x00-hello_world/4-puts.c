@@ -1,9 +1,11 @@
 #include <stdio.h>
 
 /**
- *main:function returns no value
+ *main - print the string in the put functions
  *
- *return : 0 after printing the function
+ *Description: using the main function
+ *program prints programing is like buildinga multilingual puzzle
+ *Return: 0
  */
 int main(void)
 {puts("\"Programming is like building a multilingual puzzle");
