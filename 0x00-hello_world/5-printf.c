@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- *main-prints function 
- *prints 'with proper grammar,but the outcome is a piece of art
- * Return : 0 succesful
+ *main- print the string in the printf function
+ *program prints with proper grammar,but the outcome is a piece of art
+ * Return: 0
  */
 int main(void)
 {
