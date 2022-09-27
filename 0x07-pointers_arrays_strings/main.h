@@ -2,14 +2,14 @@
 #define MAIN_H
 
 /**
- * void prototype()
- * int prototype()
- */
+ * Header file containing prototypes of all functions.
+ * used in the 0x07-pointers_arrays_strings directory.
+ * /
 
 #include <stddef.h>
 
 int _putchar(char c);
-void *_memset(char *s, char b, unsigned int n);
+char *_memset(char *s, char b, unsigned int n);
 char *_memcpy(char *dest, char *src,unsigned int n);
 char *_stchr(char *s, char c);
 unsigned int_strspn(char *s, char c);
