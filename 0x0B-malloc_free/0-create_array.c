@@ -21,7 +21,7 @@ return (NULL);
 
 /*Define values with malloc*/
 buffer = (char *)malloc(size * sizeof(c));
-if 
+if
 (buffer == 0)
 {
 return (NULL);
