@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include  "main.h"
 /**
- * main -adds positive numbers 
+ * main -adds positive numbers
  * @argc: counts the arguments
  * @argv:Arguments
  *
@@ -14,17 +14,18 @@ int main(int argc, char *argv[])
 {
 int i;
 int sum;
-sum = argv[1] + argv[1];
-if (i < o, i++);
- {
+sum = argv[0] + argv[0];
+if
+(i < 0, i++);
+{
 printf("%d\n", i++);
 
 return (0);
-}
-while
+} while
 (i > 0, i--);
 {
 printf("%d\n", i--);
-return(1);
+return (1);
 printf("%d\n", sum);
+}
 }
